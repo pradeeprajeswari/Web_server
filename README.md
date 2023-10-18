@@ -55,7 +55,8 @@ httpd.serve_forever()
 ```
 Type your code here
 # OUTPUT:
-![Alt text](webserver.jpg)
+![Alt text][webserver1](https://github.com/pradeeprajeswari/Web_server/assets/145743112/9c760c21-2293-4d5d-80ae-86ed21e7e043)
+
 
 # RESULT:
 
